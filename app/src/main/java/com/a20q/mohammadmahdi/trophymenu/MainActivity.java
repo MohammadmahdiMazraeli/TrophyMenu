@@ -8,6 +8,8 @@ import android.support.v7.widget.RecyclerView;
 import android.util.Log;
 import android.view.Menu;
 
+//hello my dear
+
 public class MainActivity extends Activity {
 
     @Override
